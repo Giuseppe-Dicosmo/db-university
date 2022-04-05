@@ -27,7 +27,7 @@ FROM `departments`;
 
 SELECT COUNT(*)
 FROM `teachers`
-WHERE `phone` <> 'NULL'
+WHERE `phone` <> '1'
 
 
 
